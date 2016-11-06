@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "12CE3B07982999AD69DBCB75DEB8FF2CC5094AB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "678BB770DE4C875AB583BDA0F8437DF4B5D870B1" : 0,
+    "12CE3B07982999AD69DBCB75DEB8FF2CC5094AB1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CF4FE585-8895-4C3D-9D2B-73A8FDA169B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "678BB770DE4C875AB583BDA0F8437DF4B5D870B1" : "",
+    "12CE3B07982999AD69DBCB75DEB8FF2CC5094AB1" : "profile-app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "krombopulos-hw7",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "krombopulos-hw7.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.oit.duke.edu:Krombopulos\/hw6.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12CE3B07982999AD69DBCB75DEB8FF2CC5094AB1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.oit.duke.edu:at201\/at201-ece590-hw5.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "678BB770DE4C875AB583BDA0F8437DF4B5D870B1"
+    }
+  ]
+}
